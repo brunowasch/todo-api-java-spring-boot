@@ -1,0 +1,12 @@
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\config\SecurityConfig.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\controller\AuthController.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\controller\TaskController.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\dto\AuthRequest.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\entity\Task.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\entity\TaskStatus.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\entity\User.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\exception\GlobalExceptionHandler.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\repository\TaskRepository.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\repository\UserRepository.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\security\JwtService.java
+C:\Users\bwasc\Desktop\todo-api-jwt\todo-api-jwt\src\main\java\com\example\todoapi\TodoApiApplication.java

@@ -1,0 +1,12 @@
+com\example\todoapi\entity\TaskStatus.class
+com\example\todoapi\controller\AuthController.class
+com\example\todoapi\security\JwtService.class
+com\example\todoapi\controller\TaskController.class
+com\example\todoapi\entity\Task.class
+com\example\todoapi\exception\GlobalExceptionHandler.class
+com\example\todoapi\repository\UserRepository.class
+com\example\todoapi\config\SecurityConfig.class
+com\example\todoapi\dto\AuthRequest.class
+com\example\todoapi\entity\User.class
+com\example\todoapi\TodoApiApplication.class
+com\example\todoapi\repository\TaskRepository.class
