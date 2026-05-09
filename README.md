@@ -1,5 +1,6 @@
-
 # ToDo API - Spring Boot + JWT
+
+API REST desenvolvida com Spring Boot para gerenciamento de tarefas (ToDo), utilizando autenticação JWT, Spring Security e persistência de dados com JPA/Hibernate.
 
 ## Tecnologias
 - Java 17
